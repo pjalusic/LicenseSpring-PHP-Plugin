@@ -1,0 +1,13 @@
+{
+    "name": "licensespring/php-plugin",
+    "type": "library",
+    "description": "Plugin written in PHP used to create and activate licenses on LicenseSpring using order data from PayPal",
+    "keywords": ["licensing", "php", "paypal", "licensespring"],
+    "homepage": "https://github.com/pjalusic/LicenseSpring-PHP-Plugin",
+    "license": "MIT",
+    "authors": [{
+        "name": "Petar Jalušić",
+        "email": "petar@krakensystems.co",
+        "role": "Developer"
+    }]
+}
